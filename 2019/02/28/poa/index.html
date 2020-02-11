@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang=en>
 <head>
-    <!-- so meta -->
+    <!-- hexo-inject:begin --><!-- hexo-inject:end --><!-- so meta -->
     <meta name="google-site-verification" content="UNYt0mwCryY0AxQmScjINFHeN-6DM9BpsNSRyHNojaY" />
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="This story is written in response to “Ocean on PoA vs. Ethereum Mainnet?”. In this article, I’ll argue for why I think it is a bad choice to ship to a Proof-of-Authority network for a project that wan">
+    <meta name="description" content="This story is written in response to &amp;#x201C;Ocean on PoA vs. Ethereum Mainnet?&amp;#x201D;. In this article, I&amp;#x2019;ll argue for why I think it is a bad choice to ship to a Proof-of-Authority network f">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Reasons to not ship a PoA network">
 <meta property="og:url" content="https://timdaub.github.io/2019/02/28/poa/index.html">
 <meta property="og:site_name" content="Tim&#39;s website">
-<meta property="og:description" content="This story is written in response to “Ocean on PoA vs. Ethereum Mainnet?”. In this article, I’ll argue for why I think it is a bad choice to ship to a Proof-of-Authority network for a project that wan">
+<meta property="og:description" content="This story is written in response to &amp;#x201C;Ocean on PoA vs. Ethereum Mainnet?&amp;#x201D;. In this article, I&amp;#x2019;ll argue for why I think it is a bad choice to ship to a Proof-of-Authority network f">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://timdaub.github.io/assets/images/clippy.jpg">
 <meta property="article:published_time" content="2019-02-28T12:18:14.000Z">
@@ -60,11 +60,11 @@
     <!-- rss -->
     
     
-<meta name="generator" content="Hexo 4.2.0"></head>
+<meta name="generator" content="Hexo 4.2.0"><!-- hexo-inject:begin --><!-- hexo-inject:end --></head>
 
 <body class="max-width mx-auto px3 ltr">
     
-      <div id="header-post">
+      <!-- hexo-inject:begin --><!-- hexo-inject:end --><div id="header-post">
   <a id="menu-icon" href="#"><i class="fas fa-bars fa-lg"></i></a>
   <a id="menu-icon-tablet" href="#"><i class="fas fa-bars fa-lg"></i></a>
   <a id="top-icon-tablet" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');" style="display:none;"><i class="fas fa-chevron-up fa-lg"></i></a>
@@ -152,14 +152,17 @@
     </div>
 
 
+      |
+      <i class="fas fa-stopwatch"></i>
+      8 minutes read
     </div>
   </header>
   
 
   <div class="content" itemprop="articleBody">
-    <p>This story is written in response to “<a href="https://blog.oceanprotocol.com/ocean-on-poa-vs-ethereum-mainnet-decd0ac72c97" target="_blank" rel="noopener">Ocean on PoA vs. Ethereum
-Mainnet?</a>”.
-In this article, I’ll argue for why I think it is a bad choice to ship to a
+    <p>This story is written in response to &#x201C;<a href="https://blog.oceanprotocol.com/ocean-on-poa-vs-ethereum-mainnet-decd0ac72c97" target="_blank" rel="noopener">Ocean on PoA vs. Ethereum
+Mainnet?</a>&#x201D;.
+In this article, I&#x2019;ll argue for why I think it is a bad choice to ship to a
 Proof-of-Authority network for a project that wants to go permission-less in
 the future.</p>
 <h2 id="Introduction">Introduction</h2>
@@ -177,7 +180,7 @@ performance is significantly increased.</p>
 </li>
 <li>
 <p>The Ethereum client running the POA can essentially be customized such that
-new use cases can be fulfilled. In the case of POA.network’s xDai, Dai is the
+new use cases can be fulfilled. In the case of POA.network&#x2019;s xDai, Dai is the
 native currency. Transaction fees are paid in Dai. Very cool.</p>
 </li>
 <li>
@@ -189,14 +192,14 @@ sidechains (e.g. POA networks) as a viable scaling mechanism.</p>
 <p>I introduce Proof-of-Authority chains and their positives. The next section
 dives into the problems of POA networks.</p>
 <h2 id="Problems">Problems</h2>
-<p>Firstly, I’d like to say that there’s nothing inherently wrong with shipping on
-a POA chain per-se. It’s more about the intend behind shipping to POA chains.</p>
+<p>Firstly, I&#x2019;d like to say that there&#x2019;s nothing inherently wrong with shipping on
+a POA chain per-se. It&#x2019;s more about the intend behind shipping to POA chains.</p>
 <p>Are you orchestrating a POA chain in your company to issue private tokens for
 your employees to send around. Great! Are you shipping a public plasma-enabled
 POA chain that allows users to exit the chain fairly. Cool!</p>
-<p>I’d like to argue, however, that when your goal is to arrive at a
-permission-less, decentralized and transparent network, you shouldn’t ship to
-POA first. In the following sections, I’ll argue for why that is.</p>
+<p>I&#x2019;d like to argue, however, that when your goal is to arrive at a
+permission-less, decentralized and transparent network, you shouldn&#x2019;t ship to
+POA first. In the following sections, I&#x2019;ll argue for why that is.</p>
 <h2 id="Security-Guarantees">Security Guarantees</h2>
 <p>Proof-of-Authority in a public setting is a bad choice, as it has different
 security guarantees compared to a PoW or PoS network.</p>
@@ -206,32 +209,32 @@ security guarantees compared to a PoW or PoS network.</p>
 <p>Users have to trust in your <a href="http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html" target="_blank" rel="noopener">wet
 code</a>. Or
 simplified: How nodes are run is essentially defined in legal documents. Node
-operators agree to run the nodes according to these documents. If they don’t
-comply, they’ll face legal issues.  To my knowledge, no precedence has been set
-in court yet. Note: I’m not a lawyer. Building a system with wet code leads,
-however, to the following properties: (A) It’s not permission-less as in:
+operators agree to run the nodes according to these documents. If they don&#x2019;t
+comply, they&#x2019;ll face legal issues.  To my knowledge, no precedence has been set
+in court yet. Note: I&#x2019;m not a lawyer. Building a system with wet code leads,
+however, to the following properties: (A) It&#x2019;s not permission-less as in:
 Everybody can, without the incurrence of a cost, to innovate or influence on
-any part of the infrastructure.(B) It’s not necessarily transparent as in:
-Everybody can follow the decision-making processes. © It’s not open as in:
+any part of the infrastructure.(B) It&#x2019;s not necessarily transparent as in:
+Everybody can follow the decision-making processes. &#xA9; It&#x2019;s not open as in:
 Everybody can choose to join the network without facing gatekeepers.</p>
 </li>
 <li>
 <p>Identity at stake is not a strong incentive for businesses running nodes.
 When the only skin-in-the-game is identity, many node operators fail to even
-get off the ground. An example: Assume you want to run a POA network that’s
+get off the ground. An example: Assume you want to run a POA network that&#x2019;s
 about storing data. You get lucky and convince the Internet Archive to run a
-node on your network. You promise them: “By running a node on our network,
-you’ll easily break even by cashing-in on the transaction fees”. Now here’s
+node on your network. You promise them: &#x201C;By running a node on our network,
+you&#x2019;ll easily break even by cashing-in on the transaction fees&#x201D;. Now here&#x2019;s
 what would happen: The Internet Archive is not in the business of running
-blockchains. Their core business model doesn’t depend on it. That means, in
+blockchains. Their core business model doesn&#x2019;t depend on it. That means, in
 case they fail to run a node for some reason, they have almost nothing to lose.
-OK, then say you convince an aspiring blockchain startup to run a node. They’re
+OK, then say you convince an aspiring blockchain startup to run a node. They&#x2019;re
 in the business of making money on blockchains! Well, even though they might
-run the risk of suffering a reputation-crisis, that won’t affect their bank
+run the risk of suffering a reputation-crisis, that won&#x2019;t affect their bank
 account much. Depending on their business model and product, they might still
-be able to make money. Alright, then let’s assume you score one of your
+be able to make money. Alright, then let&#x2019;s assume you score one of your
 customers to run a node. Well in that case, they might actually have vested
-interest in keeping the network up and running. Generally, I’d say then: A node
+interest in keeping the network up and running. Generally, I&#x2019;d say then: A node
 operator needs to have significant money at stake (or skin in the game) for
 them to be acting in the interests of the network. Hence, PoS or PoW is usually
 a good choice in a public setting.</p>
@@ -239,19 +242,19 @@ a good choice in a public setting.</p>
 <li>
 <p>Collusion of entities is likely. To join a PoA network, entities will have
 to email their public keys back and forth. It makes total sense for them to
-stay in touch, as they’re responsible for keeping the network up and running.
+stay in touch, as they&#x2019;re responsible for keeping the network up and running.
 That, however, removes the anonymous nature of running a PoW or PoS network.
 All of a sudden it becomes very easy for entities to collude. Of course,
-they’re legally bound not to, but as we’ve seen from the previous points, they
+they&#x2019;re legally bound not to, but as we&#x2019;ve seen from the previous points, they
 might not be incentivized through stake to act in the interest of the network.</p>
 </li>
 <li>
-<p>Token-bridges are centralized. There’s a reason for Plasma to exist.
+<p>Token-bridges are centralized. There&#x2019;s a reason for Plasma to exist.
 Essentially, it allows users to exit the chain in case of e.g. a (Byzantine)
-fault. In Plasma, users don’t need the permission of any authority to exit.
-Exits are facilitated through an on-chain contract that’s tracking balances.
+fault. In Plasma, users don&#x2019;t need the permission of any authority to exit.
+Exits are facilitated through an on-chain contract that&#x2019;s tracking balances.
 Token-bridges, in contrast, are likely hosted on cloud providers like AWS by
-the same organization that’s potentially also running a node. This means that
+the same organization that&#x2019;s potentially also running a node. This means that
 when a user transfers money to a POA chain, they have to not only trust the
 organizations running the nodes but also organization running the token-bridge!</p>
 </li>
@@ -264,20 +267,20 @@ own experience, when security guarantees change, the code is usually very
 costly (time and money) to port.</p>
 </li>
 </ol>
-<p>Now that I discussed the security guarantees of a POA network, let’s move on to
+<p>Now that I discussed the security guarantees of a POA network, let&#x2019;s move on to
 UX.</p>
 <h2 id="User-and-Developer-Experience">User (and Developer) Experience</h2>
 <p>Running a POA network is going to give users bad experiences for these reasons:</p>
-<p><img src="/assets/images/clippy.jpg" alt=""></p>
+<p><img src="/assets/images/clippy.jpg" alt></p>
 <ol>
 <li>
-<p>Let’s be honest. Today’s users struggle to understand what blockchains are.
+<p>Let&#x2019;s be honest. Today&#x2019;s users struggle to understand what blockchains are.
 In deploying a separate network (e.g. POA), users will have to additionally
-learn what it is. They’ll have to manually set the endpoint in Metamask.
-They’ll have to always remember when to change the Metamask endpoint and for
-which application. They’ll have to understand what a token-bridge is. They’ll
+learn what it is. They&#x2019;ll have to manually set the endpoint in Metamask.
+They&#x2019;ll have to always remember when to change the Metamask endpoint and for
+which application. They&#x2019;ll have to understand what a token-bridge is. They&#x2019;ll
 have to do the accounting for how much of their money is on the POA net vs.
-main net. Some apps won’t allow setting POA network endpoints. They’ll have to
+main net. Some apps won&#x2019;t allow setting POA network endpoints. They&#x2019;ll have to
 understand that even though POA addresses look the same as main net addresses,
 when sending money to a wrong address all their ETH could be gone. Should I go
 on? Ethereum user interfaces are built for the main net. User education happens
@@ -287,14 +290,14 @@ blockchains</a>.</p>
 <li>
 <p>Smart contract composability. IMO, the Ethereum killer feature. Essentially,
 the reason for why we have DeFi today. While token-bridges allow for
-cross-chain value transfer, transfer of state isn’t possible <a href="https://ethresear.ch/t/why-smart-contracts-are-not-feasible-on-plasma/2598" target="_blank" rel="noopener">and likely won’t
+cross-chain value transfer, transfer of state isn&#x2019;t possible <a href="https://ethresear.ch/t/why-smart-contracts-are-not-feasible-on-plasma/2598" target="_blank" rel="noopener">and likely won&#x2019;t
 be in the
 future</a>.
-I’d like to make this extra clear: A contract deployed on a POA network will
+I&#x2019;d like to make this extra clear: A contract deployed on a POA network will
 not be able to interact with a contract on the main network through state (e.g.
 calling functions). Yes, value can be sent through a token-bridge and that
 means one could potentially send ETH/ERC20 from: POA contract -&gt; token-bridge
--&gt; e.g. Uniswap. Most DeFi requires the calling of contract’s methods, however.
+-&gt; e.g. Uniswap. Most DeFi requires the calling of contract&#x2019;s methods, however.
 Not having smart contract composability leads to the following: (1) Developers
 will not be able to plug into your contract APIs unless they also ship on your
 POA network. (2) Your projects will not profit as much from open-source
@@ -303,17 +306,17 @@ collaboration, assuming most developers want to ship on the main net.</p>
 <li>
 <p>POA prohibits layer 2 scaling. Most layer 2 scaling solutions are developed
 specifically to solve the problems of the Ethereum main net. On a POA (and
-sidechain), you’ll not directly profit when these technologies get rolled out.
-Instead you’ll have to spend significant time and money to customize them.</p>
+sidechain), you&#x2019;ll not directly profit when these technologies get rolled out.
+Instead you&#x2019;ll have to spend significant time and money to customize them.</p>
 </li>
 </ol>
 <h2 id="Misc">Misc.</h2>
 <ol>
-<li>Building tools and deploying a POA network is work. In fact, it’s a
+<li>Building tools and deploying a POA network is work. In fact, it&#x2019;s a
 distraction. The money you spend on customizing and deploying your POA will be
 wasted once you ship to main net. As outlined before, it will put the engineers
-in the wrong mind set. It’s distracting them from shipping the best product
-they possibly can, I’d argue.</li>
+in the wrong mind set. It&#x2019;s distracting them from shipping the best product
+they possibly can, I&#x2019;d argue.</li>
 </ol>
 <h2 id="Solutions">Solutions</h2>
 <p>I outline a few possible solutions that remove POA (but not side chains) from
@@ -323,20 +326,20 @@ the equation.</p>
 <p>Ship to main net and wait for e.g. ETH 2.0/Polkadot. Least costly. Best
 security guarantees. Bad performance. UX will be painful but improving rapidly
 as you can profit from the community making progress (e.g. meta-transactions).
-Full focus on shipping product though. No distractions. You’ll profit from
+Full focus on shipping product though. No distractions. You&#x2019;ll profit from
 composability and projects integrating.</p>
 </li>
 <li>
 <p>Ship to main net and investigate alternatives to POA that offer better
-security guarantees to users (e.g. Loom Network is shipping dPoS — node
+security guarantees to users (e.g. Loom Network is shipping dPoS &#x2014; node
 operators actually lose money when they misbehave). Not that costly, I imagine.
 Better performance than main net. Better security guarantees. UX will be same
-as POA. You won’t profit from main net innovation as much.</p>
+as POA. You won&#x2019;t profit from main net innovation as much.</p>
 </li>
 <li>
 <p>Ship to main net and investigate Plasma as an alternative. Most costly and
 complex, I imagine. Good performance. Better security guarantees than POA.
-You’ll profit from the innovation going into Plasma. UX will be as bad as POA
+You&#x2019;ll profit from the innovation going into Plasma. UX will be as bad as POA
 but through community innovation will increase at rapid pace.</p>
 </li>
 <li>
@@ -345,8 +348,8 @@ to be adjusted. Good performance. Better security guarantees than POA.
 Innovation in UX through community at rapid pace.</p>
 </li>
 </ol>
-<p>All the solutions outlined come as “off the shelf” to some degree and with
-security guarantees similar to main net. They’re all more or less shipping
+<p>All the solutions outlined come as &#x201C;off the shelf&#x201D; to some degree and with
+security guarantees similar to main net. They&#x2019;re all more or less shipping
 today.</p>
 <h2 id="Conclusion">Conclusion</h2>
 <p>In this post I argue for why shipping a public POA network is a bad choice when
@@ -477,7 +480,7 @@ UX challenges users will face. I give alternative solutions to POA.</p>
 
 <!-- Baidu Analytics -->
 
-<!-- Disqus Comments -->
+<!-- Disqus Comments --><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 
 
 </body>
