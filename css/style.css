@@ -1186,6 +1186,10 @@ article .content .caption {
     content: "|";
   }
 }
+.owl-youtube iframe {
+  width: 100%;
+  min-height: 400px;
+}
 #archive .post-list {
   padding: 0;
 }
