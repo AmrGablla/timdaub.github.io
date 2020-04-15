@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://timdaub.github.io/2020/04/15/butter/</loc>
+        <lastmod>2020-04-15T01:29:43.944Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://timdaub.github.io/2020/02/19/wasm-synth/</loc>
         <lastmod>2020-04-14T01:04:43.965Z</lastmod>
         <changefreq>weekly</changefreq>
