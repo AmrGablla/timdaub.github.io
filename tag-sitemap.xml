@@ -4,42 +4,35 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/philosophy/</loc>
-        <lastmod>2020-04-19T00:18:38.528Z</lastmod>
+        <lastmod>2020-04-19T00:21:57.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/cryptocurrency/</loc>
-        <lastmod>2020-04-19T00:18:38.528Z</lastmod>
+        <loc>https://timdaub.github.io/tags/crypto/</loc>
+        <lastmod>2020-04-19T00:21:57.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/blockchain/</loc>
-        <lastmod>2020-04-19T00:18:38.528Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://timdaub.github.io/tags/money/</loc>
-        <lastmod>2020-04-19T00:18:38.528Z</lastmod>
+        <loc>https://timdaub.github.io/tags/essay/</loc>
+        <lastmod>2020-04-19T00:21:57.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/economics/</loc>
-        <lastmod>2020-04-19T00:18:38.528Z</lastmod>
+        <lastmod>2020-04-19T00:21:57.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/economics-sustitution-good-essay-thought-experiment/</loc>
-        <lastmod>2020-04-16T12:43:47.339Z</lastmod>
+        <loc>https://timdaub.github.io/tags/thought-experiment/</loc>
+        <lastmod>2020-04-19T00:21:45.181Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -172,6 +165,13 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/poa/</loc>
+        <lastmod>2020-01-08T12:41:41.430Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/blockchain/</loc>
         <lastmod>2020-01-08T12:41:41.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
