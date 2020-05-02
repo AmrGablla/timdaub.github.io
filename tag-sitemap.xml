@@ -4,42 +4,42 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/crdts/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/distributed-systems/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/jazz/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/consensus/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://timdaub.github.io/tags/economics/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/music/</loc>
-        <lastmod>2020-05-02T08:15:49.207Z</lastmod>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/economics/</loc>
+        <lastmod>2020-05-02T08:18:30.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
