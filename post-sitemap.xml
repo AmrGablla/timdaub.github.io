@@ -8,24 +8,16 @@
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/2020/05/02/jazz/</loc>
-        <lastmod>2020-05-02T12:34:51.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://timdaub.github.io/2020/02/19/wasm-synth/</loc>
-        <lastmod>2020-05-01T06:15:51.722Z</lastmod>
+        <lastmod>2020-05-09T21:10:35.544Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/2020/04/18/imaginary/</loc>
-        <lastmod>2020-04-19T00:31:08.204Z</lastmod>
+        <loc>https://timdaub.github.io/2020/05/02/jazz/</loc>
+        <lastmod>2020-05-03T16:35:16.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,7 +25,15 @@
 
     <url>
         <loc>https://timdaub.github.io/2020/04/15/butter/</loc>
-        <lastmod>2020-04-19T00:21:45.181Z</lastmod>
+        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/2020/04/18/imaginary/</loc>
+        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
