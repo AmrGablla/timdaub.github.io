@@ -4,63 +4,63 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/Math/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/ESNext/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/AudioWorklet/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/Synthesizer/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/C/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/WebAssembly/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/WASM/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/Web/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://timdaub.github.io/tags/Music/</loc>
-        <lastmod>2020-05-10T10:33:16.952Z</lastmod>
+        <lastmod>2020-05-12T19:52:10.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/crypto/</loc>
-        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://timdaub.github.io/tags/thought-experiment/</loc>
         <lastmod>2020-05-03T16:35:16.708Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,6 +116,13 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/philosophy/</loc>
+        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/crypto/</loc>
         <lastmod>2020-05-03T16:35:16.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
