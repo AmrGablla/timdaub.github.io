@@ -4,7 +4,7 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/engineering-typescript-javascript-ecosystem-npm-nodejs/</loc>
-        <lastmod>2020-09-01T18:59:51.015Z</lastmod>
+        <lastmod>2020-09-01T19:14:53.237Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/crypto/</loc>
-        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://timdaub.github.io/tags/thought-experiment/</loc>
         <lastmod>2020-05-03T16:35:16.708Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,6 +123,13 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/philosophy/</loc>
+        <lastmod>2020-05-03T16:35:16.708Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/crypto/</loc>
         <lastmod>2020-05-03T16:35:16.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
