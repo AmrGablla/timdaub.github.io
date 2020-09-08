@@ -3,8 +3,85 @@
 
 
     <url>
-        <loc>https://timdaub.github.io/tags/engineering-typescript-javascript-ecosystem-npm-nodejs/</loc>
-        <lastmod>2020-09-02T10:00:30.303Z</lastmod>
+        <loc>https://timdaub.github.io/tags/metamask/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/web-standards/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/usability/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/blockchain/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/ethereum/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/web3/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/nodejs/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/npm/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/ecosystem/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/javascript/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/typescript/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/engineering/</loc>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -199,21 +276,7 @@
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/ethereum/</loc>
-        <lastmod>2020-01-08T12:41:41.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://timdaub.github.io/tags/poa/</loc>
-        <lastmod>2020-01-08T12:41:41.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://timdaub.github.io/tags/blockchain/</loc>
         <lastmod>2020-01-08T12:41:41.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

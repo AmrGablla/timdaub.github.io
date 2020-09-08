@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://timdaub.github.io/2020/09/08/web3/</loc>
+        <lastmod>2020-09-08T17:19:37.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://timdaub.github.io/2020/09/01/typescript/</loc>
-        <lastmod>2020-09-02T10:00:30.303Z</lastmod>
+        <lastmod>2020-09-08T17:05:23.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
