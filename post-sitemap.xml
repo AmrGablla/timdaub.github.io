@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://timdaub.github.io/2020/12/27/wasm-stream/</loc>
+        <lastmod>2020-12-27T13:40:13.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://timdaub.github.io/2020/12/11/rugpullindex/</loc>
         <lastmod>2020-12-11T10:59:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
