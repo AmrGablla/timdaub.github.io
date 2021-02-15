@@ -102,6 +102,12 @@
     
     
     
+    <category term="blockchain" scheme="https://timdaub.github.io/tags/blockchain/"/>
+    
+    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
+    
+    <category term="smart contracts" scheme="https://timdaub.github.io/tags/smart-contracts/"/>
+    
     <category term="startup" scheme="https://timdaub.github.io/tags/startup/"/>
     
     <category term="index" scheme="https://timdaub.github.io/tags/index/"/>
@@ -109,12 +115,6 @@
     <category term="markets" scheme="https://timdaub.github.io/tags/markets/"/>
     
     <category term="automated market makers" scheme="https://timdaub.github.io/tags/automated-market-makers/"/>
-    
-    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
-    
-    <category term="blockchain" scheme="https://timdaub.github.io/tags/blockchain/"/>
-    
-    <category term="smart contracts" scheme="https://timdaub.github.io/tags/smart-contracts/"/>
     
   </entry>
   
@@ -168,9 +168,9 @@
     
     
     
-    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
-    
     <category term="blockchain" scheme="https://timdaub.github.io/tags/blockchain/"/>
+    
+    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
     
     <category term="web3" scheme="https://timdaub.github.io/tags/web3/"/>
     
@@ -388,15 +388,15 @@
     
     
     
-    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
+    <category term="crypto currency" scheme="https://timdaub.github.io/tags/crypto-currency/"/>
     
     <category term="blockchain" scheme="https://timdaub.github.io/tags/blockchain/"/>
     
-    <category term="smart contracts" scheme="https://timdaub.github.io/tags/smart-contracts/"/>
-    
-    <category term="crypto currency" scheme="https://timdaub.github.io/tags/crypto-currency/"/>
-    
     <category term="poa" scheme="https://timdaub.github.io/tags/poa/"/>
+    
+    <category term="ethereum" scheme="https://timdaub.github.io/tags/ethereum/"/>
+    
+    <category term="smart contracts" scheme="https://timdaub.github.io/tags/smart-contracts/"/>
     
     <category term="decentralized finance" scheme="https://timdaub.github.io/tags/decentralized-finance/"/>
     

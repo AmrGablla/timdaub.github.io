@@ -80,27 +80,6 @@
     </url>
 
     <url>
-        <loc>https://timdaub.github.io/tags/smart-contracts/</loc>
-        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://timdaub.github.io/tags/blockchain/</loc>
-        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://timdaub.github.io/tags/ethereum/</loc>
-        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://timdaub.github.io/tags/automated-market-makers/</loc>
         <lastmod>2020-12-11T10:59:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,6 +102,27 @@
 
     <url>
         <loc>https://timdaub.github.io/tags/startup/</loc>
+        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/smart-contracts/</loc>
+        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/ethereum/</loc>
+        <lastmod>2020-12-11T10:59:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://timdaub.github.io/tags/blockchain/</loc>
         <lastmod>2020-12-11T10:59:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
